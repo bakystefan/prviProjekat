@@ -5,7 +5,7 @@ class Filmovi extends Component {
   constructor(props){
     super(props);
     this.state = {
-      title : "",
+      title : "asdadad",
     }
   }
   componentWillReceiveProps(props) {
